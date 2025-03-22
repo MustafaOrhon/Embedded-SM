@@ -1,6 +1,6 @@
 # Embedded System Design with UML State Machines (PlatformIO Projects) - Arduino Uno Rev3
 
-This repository contains all projects from the "[First Embedded System Design using UML State Machines](https://www.udemy.com/course/embedded-system-design-using-uml-state-machines)" Udemy course, implemented on an **Arduino Uno Rev3** using PlatformIO.The `007ClockAlarm` project includes specific enhancements.
+This repository contains all projects from the "[Embedded System Design using UML State Machines](https://www.udemy.com/course/embedded-system-design-using-uml-state-machines)" Udemy course, implemented on an **Arduino Uno Rev3** using PlatformIO.The `007ClockAlarm` project includes specific enhancements.
 
 ## Key Features & Enhancements (007ClockAlarm)
 
